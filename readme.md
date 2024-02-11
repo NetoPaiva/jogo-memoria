@@ -1,5 +1,14 @@
 ## Boas-vindas ao **Jogo da Memória**!
 
+```
+  #game-development
+  #javascript-game 
+  #html-css-javascript 
+  #html-css-javascript-games 
+  #ifood 
+  #dio-bootcamp 
+```
+
 Um projeto que, além do entretenimento, demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 Aqui, no repositório, você encontrará os arquivos do projeto.
@@ -25,4 +34,4 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 
 ---
 
-Divirta-se [jogando o **JSGame Detona Ralph**](https://netopaiva.github.io/detona-ralph/)  enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game) e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se [com o **jogo da memória**](https://netopaiva.github.io/jogo-memoria/)  enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game) e deixar uma ⭐️ se você gostou do projeto!
